@@ -1,3 +1,3 @@
-console.log("Zadanie 1");
+console.log("Zadanie 4");
 
 console.log("---------------------");
